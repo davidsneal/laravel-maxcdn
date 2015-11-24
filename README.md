@@ -11,6 +11,13 @@
 },
 ```
 
+## .env
+```php
+MAXCDN_ALIAS=
+MAXCDN_KEY=
+MAXCDN_SECRET=
+```
+
 ##config/app.php
 
 ```php
