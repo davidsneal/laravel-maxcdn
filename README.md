@@ -35,7 +35,7 @@ use Davidsneal\MaxCDN\MaxCDN;
 ## Usage
 ```php
 $cdn = new MaxCDN();
-$cdn->delete('/zones/pull.json/459440/cache', [
+$cdn->delete('/zones/pull.json/{zone-id}/cache', [
     'file' => '/test.jpg'
 ]);
 ```
