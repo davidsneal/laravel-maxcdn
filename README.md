@@ -6,6 +6,9 @@
         "Davidsneal\\MaxCDN\\": "vendor/davidsneal/laravel-maxcdn/src"
     }
 },
+"require": {
+    "davidsneal/laravel-maxcdn": "dev-master"
+},
 ```
 
 ##config/app.php
