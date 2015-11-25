@@ -18,14 +18,6 @@ MAXCDN_KEY=
 MAXCDN_SECRET=
 ```
 
-##config/app.php
-
-```php
-'providers' => [
-    Davidsneal\MaxCDN\MaxCDNServiceProvider::class,
-],
-```
-
 ##YourController.php
 
 ```php
